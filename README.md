@@ -141,5 +141,17 @@ Based on the analysis, Airbnb can consider the following improvements to enhance
 - 🚀 **New Host Support Programs**  
   Launch onboarding support, tutorial videos, and temporary visibility boosts for new hosts to increase retention and booking success early on.
 
+---
 
+## 🙏 Acknowledgments
+
+This project was completed as part of the **Data Science program** at [AlmaBetter](https://www.almabetter.com/), where the challenge involved exploring real-world datasets to extract actionable business insights using Python, EDA, and regression modeling.
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Hammaad Haque**  
+Data Science & Analytics Enthusiast  
+📧 Email: hammaadhaque@gmail.com
 
