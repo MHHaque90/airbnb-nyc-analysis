@@ -1,9 +1,22 @@
-# airbnb-nyc-analysis
 # 🏙️ Airbnb NYC 2019 Data Analysis
 
 ## 📌 Project Overview
 
 This project explores Airbnb listings in New York City for the year 2019. It uses Python and Google Colab to perform data cleaning, exploratory data analysis (EDA), visualizations, and a simple linear regression to uncover insights related to pricing, availability, room types, and customer behavior.
+
+---
+## 📚 Table of Contents
+- [Project Overview](#-project-overview)
+- [Business Objectives](#-business-objectives)
+- [Business Context](#-business-context)
+- [Key Steps](#-key-steps)
+- [Key Insights](#-key-insights)
+- [Regression Analysis](#-regression-analysis)
+- [Business Recommendations](#-business-recommendations)
+- [Technologies Used](#-technologies-used)
+- [Future Business Improvements](#-future-business-improvements)
+- [Project Files](#-project-files)
+- [How to Run](#-how-to-run)
 
 ---
 
