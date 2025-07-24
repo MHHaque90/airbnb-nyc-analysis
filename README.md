@@ -81,16 +81,13 @@ A simple linear regression was performed to analyze whether the **number of revi
 - Entire homes are more expensive, but private rooms dominate in quantity.
 - Price is influenced more by location and room type than by review count.
 
-## 💼 Business Suggestions
-
-- Airbnb could promote underrepresented boroughs to balance traffic.
-- Hosts in Brooklyn and Queens may benefit from pricing optimization tools.
-- Customers can find good value in shared/private rooms in Brooklyn.
-
 ---
 
 ## 💼 Business Recommendations
 
+- Airbnb could promote underrepresented boroughs to balance traffic.
+- Hosts in Brooklyn and Queens may benefit from pricing optimization tools.
+- Customers can find good value in shared/private rooms in Brooklyn.
 - Promote underrepresented boroughs through marketing.
 - Offer hosts AI-driven pricing guidance.
 - Encourage review collection to improve visibility and trust.
@@ -153,5 +150,5 @@ This project was completed as part of the **Data Science program** at [AlmaBette
 
 **Muhammad Hammaad Haque**  
 Data Science & Analytics Enthusiast  
-📧 Email: hammaadhaque@gmail.com
+📧 Email: [hammaadhaque@gmail.com](mailto:hammaadhaque@gmail.com)
 
