@@ -75,6 +75,19 @@ This project analyzes approximately 49,000 listings with various features like p
 A simple linear regression was performed to analyze whether the **number of reviews** can predict **price**. The result showed a very **weak relationship**, suggesting that price is influenced more by location and room type than by review count.
 
 ---
+## 📌 Project Summary
+
+- Manhattan has the most listings and the highest prices on average.
+- Entire homes are more expensive, but private rooms dominate in quantity.
+- Price is influenced more by location and room type than by review count.
+
+## 💼 Business Suggestions
+
+- Airbnb could promote underrepresented boroughs to balance traffic.
+- Hosts in Brooklyn and Queens may benefit from pricing optimization tools.
+- Customers can find good value in shared/private rooms in Brooklyn.
+
+---
 
 ## 💼 Business Recommendations
 
