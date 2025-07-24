@@ -1,6 +1,14 @@
 <p align="center">
   <img src="images/banner.png" alt="Airbnb NYC Analysis Banner" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-yellowgreen?logo=pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-lightblue?logo=seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Linear%20Regression-orange?logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-purple" />
+</p>
+
 
 # 🏙️ Airbnb NYC 2019 Data Analysis
 
