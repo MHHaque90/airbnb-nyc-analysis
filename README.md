@@ -96,6 +96,16 @@ A simple linear regression was performed to analyze whether the **number of revi
 - Markdown for documentation
 
 ---
+## 📁 Project Files
+
+| File/Folder Name               | Description                                          |
+|-------------------------------|------------------------------------------------------|
+| `airbnb_nyc_analysis.ipynb`   | Main notebook with EDA, regression, and insights     |
+| `Airbnb NYC 2019.csv`                | Airbnb NYC 2019 dataset                              |
+| `README.md`                   | Project overview and documentation                   |
+| `images/`                     | Folder containing the project banner and visual assets |
+
+---
 ## 🔮 Future Business Improvements
 
 Based on the analysis, Airbnb can consider the following improvements to enhance platform performance and user experience:
