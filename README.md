@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Airbnb NYC Analysis Banner" />
+</p>
+
 # 🏙️ Airbnb NYC 2019 Data Analysis
 
 ## 📌 Project Overview
