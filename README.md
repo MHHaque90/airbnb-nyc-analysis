@@ -28,7 +28,6 @@ This project explores Airbnb listings in New York City for the year 2019. It use
 - [Technologies Used](#-technologies-used)
 - [Future Business Improvements](#-future-business-improvements)
 - [Project Files](#-project-files)
-- [How to Run](#-how-to-run)
 
 ---
 
